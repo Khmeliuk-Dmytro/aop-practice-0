@@ -3,7 +3,7 @@
 # GitHub: https://github.com/Khmeliuk-Dmytro
 # LeetCode: https://leetcode.com/u/khmeliuk-dmytro/
 # HackerRank: https://www.hackerrank.com/profile/khmeliuk_dmytro
-! [Знімок екрана 2026-09-09 175428.png]
+![Знімок екрана 2026-09-09 175428.png](../../Pictures/Screenshots/%D0%97%D0%BD%D1%96%D0%BC%D0%BE%D0%BA%20%D0%B5%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202026-09-09%20175428.png)
 ! [Конфіг Гіда] (Знімок екрана 2026-09-09 175804.png)
 ! [Результат команди на Гід баш] (Знімок екрана 2026-09-09 180110.png)
 ! [Hello world в IntelliJ IDEA] (Знімок екрана 2026-09-09 182447.png)
