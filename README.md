@@ -3,11 +3,14 @@
 # GitHub: https://github.com/Khmeliuk-Dmytro
 # LeetCode: https://leetcode.com/u/khmeliuk-dmytro/
 # HackerRank: https://www.hackerrank.com/profile/khmeliuk_dmytro
-# java -version
-java version "25.0.4.1" 2026-08-18 LTS
-Java(TM) SE Runtime Environment (build 25.0.4.1+1-LTS-5)
-Java HotSpot(TM) 64-Bit Server VM (build 25.0.4.1+1-LTS-5, mixed mode, sharing)
-# javac -version
-javac 25.0.4.1
-# git --version
-git version 2.55.0.windows.5
+! [Скріншот версій Джави та Гід] (Знімок екрана 2026-09-09 175428.png)
+! [Конфіг Гіда] (Знімок екрана 2026-09-09 175804.png)
+! [Результат команди на Гід баш] (Знімок екрана 2026-09-09 180110.png)
+! [Hello world в IntelliJ IDEA] (Знімок екрана 2026-09-09 182447.png)
+! [Розв'язанна задача з HackerRank] (Знімок екрана 2026-09-09 183404.png)
+! [Chat ГПТ] (Знімок екрана 2026-09-09 183650.png)
+# Клауді не працює
+# Проблеми
+Виникли з Гід Башом, через кирилицю в юзернеймі системи. 
+Прийшлось використати допомогу ШІ для зміни місця знаходження SSH-ключа для коректної роботи програми.
+Заодно переписування команди для підключення до Гідхаба додавши шлях до SSH-ключа
