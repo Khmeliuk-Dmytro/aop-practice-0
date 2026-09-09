@@ -7,10 +7,10 @@
 ![Java и Git version](https://raw.githubusercontent.com/Khmeliuk-Dmytro/aop-practice-0/main/Знімок%20екрана%202026-09-09%20175428.png)
 
 ### Git Bash конфіг
-![Git Bash config](path/to/bash-config-screenshot.png)
+![Git Bash config](https://raw.githubusercontent.com/Khmeliuk-Dmytro/aop-practice-0/refs/heads/main/%D0%97%D0%BD%D1%96%D0%BC%D0%BE%D0%BA%20%D0%B5%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202026-09-09%20175804.png)
 
 ### Підключення до GitHub через Git Bash
-![GitHub connection](path/to/github-connection-screenshot.png)
+![GitHub connection](https://raw.githubusercontent.com/Khmeliuk-Dmytro/aop-practice-0/refs/heads/main/%D0%97%D0%BD%D1%96%D0%BC%D0%BE%D0%BA%20%D0%B5%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202026-09-09%20180110.png)
 # Клауді не працює
 # Проблеми
 Виникли з Гід Башом, через кирилицю в юзернеймі системи. 
