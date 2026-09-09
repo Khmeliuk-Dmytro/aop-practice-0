@@ -11,6 +11,16 @@
 
 ### Підключення до GitHub через Git Bash
 ![GitHub connection](https://raw.githubusercontent.com/Khmeliuk-Dmytro/aop-practice-0/refs/heads/main/%D0%97%D0%BD%D1%96%D0%BC%D0%BE%D0%BA%20%D0%B5%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202026-09-09%20180110.png)
+
+### Hello world в IntelliJ IDEA
+![Hello world in IntellIJ](https://raw.githubusercontent.com/Khmeliuk-Dmytro/aop-practice-0/refs/heads/main/%D0%97%D0%BD%D1%96%D0%BC%D0%BE%D0%BA%20%D0%B5%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202026-09-09%20182447.png)
+
+### Hello world в HackerRank
+![Hello world in HackerRank](https://raw.githubusercontent.com/Khmeliuk-Dmytro/aop-practice-0/refs/heads/main/%D0%97%D0%BD%D1%96%D0%BC%D0%BE%D0%BA%20%D0%B5%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202026-09-09%20183404.png)
+
+### Chat GPT тест
+![Chat GPT test](https://raw.githubusercontent.com/Khmeliuk-Dmytro/aop-practice-0/refs/heads/main/%D0%97%D0%BD%D1%96%D0%BC%D0%BE%D0%BA%20%D0%B5%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202026-09-09%20183650.png)
+
 # Клауді не працює
 # Проблеми
 Виникли з Гід Башом, через кирилицю в юзернеймі системи. 
